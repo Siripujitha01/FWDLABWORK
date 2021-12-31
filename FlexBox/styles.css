@@ -1,0 +1,18 @@
+.flex-container
+{
+    display: flex;
+}
+.flex-container > div{
+    margin: 10px;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+}
+.one{
+    flex-basis: 100px;
+    margin-left: 400px;
+}
+.two{
+    font-size:22px;
+}
