@@ -1,0 +1,40 @@
+body{
+    background-color:aquamarine;
+}
+h1{
+    text-align: center;
+    color: hotpink;
+}
+.flex-container{
+    display: flex;
+}
+.flex-container>div{
+    margin: 10px;
+    padding: 50px;
+}
+button{
+    margin-left: 170px;
+    border-radius: 25px;
+    margin-top: 30px;
+    background-color: skyblue;
+    padding: 10px;
+}
+img{
+    border-radius: 25px;
+    margin-left: 70px;
+}
+img:hover{
+    width: 500px;
+    height: 300px;
+}
+button:hover{
+    background-color: tomato;
+    width: 150px;
+    height: 50px;
+}
+p{
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+    color: rgb(68, 112, 3);
+}
