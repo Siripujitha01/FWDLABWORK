@@ -1,0 +1,19 @@
+div{
+    border: solid black 2px;
+    border-radius: 25px;
+    margin: 30px;
+    padding: 30px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+input{
+    margin: 10px;
+}
+button{
+    margin: 20px;
+    margin-left: 150px;
+}
+a{
+    color: red;
+    visibility: hidden;
+}
